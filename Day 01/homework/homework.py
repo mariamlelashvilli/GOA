@@ -1,34 +1,8 @@
-from turtle import *
+name = "mariam"
+surname = "lelashvilli"
+story = "GOA ში შემოვედი რადგან დამაინტერესდა პროგრამირება და გადავწყვიტე GOA ში შემოვსულიყავი  "
+height ="150"
+age ="11 წლის"
 
 
-
-print("mariam lelashvilli")
-print("150")
-print("GOA ში შემოვედი რადგან დამაინტერესდა პროგრამირება და გადავწყვიტე GOA ში შემოვსულიყავი " )
-print("11 წლის")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-exitonclick()
+print(name + " " + surname + ", " + story + ", " +  height + " " +  age)

@@ -1,4 +1,5 @@
 name = "mariam"
-Surname = "Lelashvilli"
+last_name = "Lelashvilli"
 age =  11
-print(name + Surname + " " +age)
+country = "Georgia"
+print(name + last_name)
